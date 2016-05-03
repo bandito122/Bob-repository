@@ -16,7 +16,7 @@ public class TestApplic {
      */
     public static void main(String[] args) 
     {
-        System.out.println("yooo");
+        System.out.println("yoooo");
         // TODO code application logic here
     }
     
